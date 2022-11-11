@@ -1,0 +1,31 @@
+div{
+    display: flex;
+    margin-top: 100px;
+    margin-left: relative;
+}
+
+p{
+    
+    padding: 30px;
+    background-color: blanchedalmond;
+    text-align: center;
+}
+
+h1{
+    margin-left: 0px;
+}
+img{
+    margin-left: 100px;
+    display: flex;
+    
+}
+img{
+    float: left;
+    border: transparent thin solid;
+    padding: 5px;
+    margin: 0px 10px 10px 0;
+    max-width: 186px;
+}
+h6{
+    margin-left: 0px;
+}
